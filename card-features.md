@@ -1,5 +1,5 @@
 /*
-Title: Card Features
+Title: Card Features 
 Description: Learn about the card features and settings available in Glo.
 Sort: 2
 */
