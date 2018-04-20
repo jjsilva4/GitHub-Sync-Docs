@@ -1,5 +1,5 @@
 /*
-Title: Start Glo-ing
+Title: Start Glo-ing  
 Description: Learn the basics of working with the Glo interface.
 Sort: 1
 */
