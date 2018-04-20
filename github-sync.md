@@ -1,5 +1,5 @@
 /*
-Title: GitHub Sync
+Title: GitHub Sync 
 Description: Learn how to sync Glo with GitHub Issues.
 Sort: 4
 */
