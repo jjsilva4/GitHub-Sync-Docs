@@ -1,0 +1,3 @@
+[submodule "NewLFSrepo"]
+	path = NewLFSrepo
+	url = git@github.com:jjsilva4/NewLFSrepo.git
