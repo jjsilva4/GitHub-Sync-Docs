@@ -10,7 +10,7 @@ GitKraken Glo boards represent your on-going projects.  Below you can explore al
 
 <a id="create-a-board"></a>
 
-## Create a board
+## Create an EPIC board
 
 GitKraken Glo allows you to create Glo boards that you can use to manage your projects.
 
