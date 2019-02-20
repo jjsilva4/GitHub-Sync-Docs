@@ -4,6 +4,8 @@ Description: Learn about the card features and settings available in Glo.
 Sort: 2
 */
 
+Shane is a ninja.
+
 GitKraken Glo cards represent the tasks that need to be completed on your Glo board.  Below you can explore all of the features available or quick dive to a specific topic.
 
 ***
