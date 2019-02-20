@@ -6,6 +6,8 @@ Sort: 4
 
 Syncing your GitHub Issues in Glo lets you break issues out into columns and visualize them in Glo.
 
+Type your code here
+
 <img src='/img/documentation/glo/github-sync/sync-issue.gif' class='img-bordered img-responsive center'>
 
 ### What gets synced from GitHub?
