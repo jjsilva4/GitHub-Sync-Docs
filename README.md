@@ -1,1 +1,1 @@
-GitHub Sync Docs
+GitHub Sync Docucmentation 
